@@ -46,6 +46,5 @@
 
 ### 😂 Here's a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
 ![Snake animation](https://github.com/assisnat/assisnat/blob/output/github-contribution-grid-snake.svg)
    
