@@ -1,7 +1,6 @@
 # Hi there! I'm Natália!
 
 - 🔭 I’m a Computer Science student at Universidade Federal de Alagoas - UFAL;
-- 
 - 😄 Pronouns: she/her.
 
 <div>
